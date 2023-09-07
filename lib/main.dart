@@ -1,6 +1,6 @@
-import 'package:demo/fetchdata.dart';
-import 'package:demo/logincontroller.dart';
-import 'package:demo/loginpage.dart';
+import 'package:demo/api/fetchdata.dart';
+import 'package:demo/controller/logincontroller.dart';
+import 'package:demo/pages/loginpage.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

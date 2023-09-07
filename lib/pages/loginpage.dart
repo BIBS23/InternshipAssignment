@@ -1,4 +1,4 @@
-import 'package:demo/logincontroller.dart';
+import 'package:demo/controller/logincontroller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

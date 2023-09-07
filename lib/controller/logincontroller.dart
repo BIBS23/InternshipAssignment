@@ -1,4 +1,4 @@
-import 'package:demo/home.dart';
+import 'package:demo/pages/expense_list.dart';
 import 'package:get/get.dart';
 
 class AuthController extends GetxController {

@@ -1,6 +1,6 @@
-import 'package:demo/modalclass.dart';
+import 'package:demo/model/expensemodel.dart';
 import 'package:flutter/material.dart';
-import 'package:demo/fetchdata.dart';
+import 'package:demo/api/fetchdata.dart';
 import 'package:get/get.dart';
 
 class Home extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:demo/modalclass.dart';
+import 'package:demo/model/expensemodel.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
